@@ -8,18 +8,21 @@
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="60" height="60" />ABOUT ME</h1>
  </div>
  
-- 🌱 I’m currently learning **Django**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Ninja%20Medium-Light%20Skin%20Tone.png" alt="Ninja Medium-Light Skin Tone" width="25" height="25" /> Proficient in a wide range of  HTML, CSS, JavaScript, Python.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Proficient in **Python full stak**
 
-- 💬 Ask me about **Python,Webtech,Sql**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> Goal: **Exploring every possible thing in the field of technology**
 
-- 📫 How to reach me **amritacid@gmail.com**
+ - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me**amritacid@gmail.com**
 
-- ⚡ Fun fact **I am funny**
 
-<h3 align="left">Connect with me:</h3>
+<div >
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="60" height="60" />Connect with me:</h1>
+</div>
+
 <p align="left">
-<a href="https://linkedin.com/in/durga prasanna mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durga prasanna mohanty" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.__mohanty__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.__mohanty__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/durga prasanna mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durga prasanna mohanty" height="40" width="50" /></a>
+<a href="https://instagram.com/mr.__mohanty__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.__mohanty__" height="40" width="50" /></a>
 </p>
 
 
