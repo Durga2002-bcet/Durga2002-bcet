@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=white&center=true&vCenter=true&width=2000&height=200&lines=Hello+Everyone%F0%9F%91%8B%F0%9F%8F%BC;I+am+Durga+Prasanna+Mohanty%F0%9F%92%BB)](https://git.io/typing-svg)
-![MasterHead](https://redblink.com/wp-content/uploads/2019/07/front-end-back-end-and-full-stack-web-development..gif?x37399)
+![MasterHead](https://camo.githubusercontent.com/62d5e37d7b55533a96b7bde4d6bcc5143072a83014ecd4989b1cae3e7f32c6a4/68747470733a2f2f7777772e736576656e73746172776562736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f7468656d65732f736576656e737461722f696d672f62616e6e65722d62672e676966)
 
 <div align="center" >Welcome to my GitHub profile! I'm a passionate Python full stack developer with a zest for exploring new technologies.</div>
 
